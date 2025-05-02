@@ -1,0 +1,1 @@
+# kata-array-pair-sum
