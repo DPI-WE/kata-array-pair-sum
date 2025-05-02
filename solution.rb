@@ -1,6 +1,4 @@
 
-class Array
-  def pairs_sum_to(target)
-    # TODO
-  end
+def pair_sum(array, target)
+  # TODO
 end
